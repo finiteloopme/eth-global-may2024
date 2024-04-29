@@ -1,12 +1,17 @@
-Try - australia south east instead of us west & central
-1. T4
-2. P100
+
+> Note: These scripts haven't been tested in a separate project; so it likely missing required org policies and/or API actions.  
+> If you run into these issues please raise an issue on the repo
+
+# Pre requisites
+
+1. Kurtosis
+2. Polygn CDK
 
 # References
 
-1. [GPU on Autopilot][1]
-2. [Accelerators in Regions][2]
+1. [Installing Kurtosis][1]
+2. [Getting Started :: Polygon CDK][2]
 
 ---
-[1]: https://cloud.google.com/kubernetes-engine/docs/how-to/autopilot-gpus
-[2]: https://cloud.google.com/vertex-ai/docs/general/locations#accelerators
+[1]: https://docs.kurtosis.com/install/#ii-install-the-cli
+[2]: https://docs.polygon.technology/cdk/get-started/
